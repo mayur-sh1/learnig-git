@@ -1,2 +1,3 @@
-# project-demo
+# College Predictor
+
 tester
